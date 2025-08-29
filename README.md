@@ -1,5 +1,0 @@
-# Tic_Tac_Toe
-Tic Tac Toe game in Python:
-In this program, we define a draw_board function that takes a Tic Tac Toe board as input and prints it to the console. We also define a get_move function that gets a move from the player and validates it to make sure it's a number between 1 and 9. We define a check_win function that checks if a player has won the game by checking for three in a row (horizontally, vertically, or diagonally).
-
-The play_game function sets up the game by creating a new board, getting the two player names (X and O), and setting the current player to X. It then enters a loop that runs for 9 turns, asking the current player for their move, validating it, and updating the board. After each move, it checks if the player has won and if so, prints a message and ends the game. If no one has won after 9 turns, the game is declared a tie.
