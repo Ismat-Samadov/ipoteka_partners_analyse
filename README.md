@@ -8,7 +8,7 @@
 ## Executive Summary
 
 The Azerbaijani mortgage market is dominated by a single player. **BirBank operates the largest residential partner network by a decisive margin**, with 100 active complexes — roughly seven times more than any competitor. This network advantage is further reinforced by a dual-rate product strategy that serves both subsidised social buyers and commercial buyers simultaneously. For PASHA Bank and Xalq Bank, the gap in network scale represents the most critical strategic exposure.
-
+`
 ---
 
 ## 1. Who Controls the Partner Network?
@@ -146,4 +146,4 @@ This geographic concentration has two implications:
 | Xalq Bank | xalqbank.az | 14 |
 | BirBank | ipoteka.birbank.az API | 100 |
 
-Data collected February 2025. All figures reflect live partner portal state at time of collection.
+Data collected February 2026. All figures reflect live partner portal state at time of collection.
